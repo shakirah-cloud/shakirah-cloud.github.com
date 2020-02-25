@@ -1,28 +1,25 @@
----
-title: "shakirah-cloud's website"
-output: html_document
----
+## About
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+I studied Biochemistry at the University of Ilorin,Kwara state Nigeria,Currently studing to become a Data Scientist.
 
-## R Markdown
+I can write codes using phyton and R Languages,carry out basic Data Cleaning and also learning how to use different Machine learing Models.
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+## Interests
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+* Biochemical Reasches
+* Analysis of Different Data for Bussiness Growth
 
-```{r cars}
-summary(cars)
-```
 
-## Including Plots
+## Projects
 
-You can also embed plots, for example:
+* This website is my first project
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+## Profiles 
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+* [GitHub](http://github.com/shakirah-cloud)
+
+## Contact
+
+*[shakirah016@gmail.com](mailto:shakirah016@gmail.com)
+
+
