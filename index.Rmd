@@ -3,6 +3,9 @@ title: "Shakirah-cloud's website"
 output:
   html_document:
     theme: spacelab
+    toc: true
+    toc_depth: 3
+    toc_float: true
 ---
 
 
